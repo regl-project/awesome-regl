@@ -45,6 +45,10 @@
 
 ## Resources
 
+* [From nothing to something in webgl with regl](http://rreusser.github.io/from-nothing-to-something-in-webgl-with-regl/)
+* [loading and displaying a 3D mesh with regl](https://kitties.neocities.org/meshtutorial.html)
+* [Beautifully animate points with webgl and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html)
+
 ## Projects using regl
 
 * [538 Gun Deaths](http://fivethirtyeight.com/features/gun-deaths/)
