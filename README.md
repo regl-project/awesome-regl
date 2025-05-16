@@ -13,19 +13,25 @@
 
 ## Official resources
 
-* [GitHub Repository](https://github.com/mikolalysenko/regl)
-* [API documentation](https://github.com/mikolalysenko/regl)
+* [GitHub Repository](https://github.com/regl-project/regl)
+* [API documentation](https://github.com/regl-project/regl/blob/main/API.md)
 
-## Community
+## Join a Community!
 
 * [Gitter](https://gitter.im/mikolalysenko/regl)
+* [Shadertoy Shader Examples](https://shadertoy.com)
+* [Inigo Quilez](https://x.com/iquilezles)
+* [Matt Henderson](https://x.com/matthen2)
 
 ## Examples
 
-* [Official example gallery](https://mikolalysenko.github.io/regl/www/gallery.html)
+* [Official example gallery](https://regl-project.github.io/regl/www/gallery.html)
 * [Freeman's regl examples](https://github.com/freeman-lab/regl-examples)
+* [Shadertoy Shader Examples](https://shadertoy.com)
+* [Reusser regl examples](https://rreusser.github.io/sketches/)
+* [Regl Math Art Sketches](https://funnyscar.com/sketches)
 
-## Tools
+## Libraries
 
 * [headless-gl](https://github.com/stackgl/headless-gl) Run regl in node without spawning a window
 * [glslify](https://github.com/stackgl/glslify) Shader module loader
@@ -43,11 +49,14 @@
 * [glsl-gaussian](https://github.com/realazthat/glsl-gaussian)
 * [glsl-zoom](https://github.com/realazthat/glsl-zoom)
 
-## Resources
+## Education
 
-* [From nothing to something in webgl with regl](http://rreusser.github.io/from-nothing-to-something-in-webgl-with-regl/)
+* [From nothing to something in webgl with regl](http://rreusser.github.io/from-nothing-to-something-in-webgl-with-regl)
 * [loading and displaying a 3D mesh with regl](https://kitties.neocities.org/meshtutorial.html)
 * [Beautifully animate points with webgl and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html)
+* [The Book of Shaders](https://thebookofshaders.com)
+* [Inigo Quilez's Blog Posts](https://iquilezles.org/articles/)
+* [Reusser's Blog Posts](https://observablehq.com/@rreusser)
 
 ## Projects using regl
 
@@ -56,6 +65,7 @@
 * [GPGPU Smooth Life](https://github.com/rreusser/regl-smooth-life)
 * [GPGPU Fourier Analysis](https://github.com/dfcreative/gl-fourier)
 * [GPU accelerated handwritten digit recognition with regl using Convolutional Neural Networks](https://github.com/Erkaman/regl-cnn)
+
 
 ### License
 
